@@ -63,11 +63,20 @@ function Resume() {
           {showExperience && (
             <div className="experience animated-section slide-in">
               <div className="experience-item">
+                <div className="icon-bullet"><i className="fas fa-laptop-code"></i></div>
+                <div>
+                <h7>Co-Founder<a href='https://atlantic360.ca/' target="_blank"><span className='place'> @ Atlantic360 </span></a></h7><br></br>
+                  <p className='timeline'>Jan 2024 - Present</p>
+                  <p><i className="fa-solid fa-angles-right"></i>Conceptualized and meticulously designed the website, ensuring a seamless user experience and modern aesthetic.</p>
+                  <p><i className="fa-solid fa-angles-right"></i>Led technical operations and supervised project management</p>
+                </div>
+              </div>
+              <div className="experience-item">
                 <div className="icon-bullet"><i className="fas fa-briefcase"></i></div>
                 <div>
                   <h7>Student Tutor<span className='place'>   @ BRAC University</span></h7><br></br>
                   <p className='timeline'>Sep 2022 - Dec 2023</p>
-                  <p><i className="fa-solid fa-angles-right"></i>Served as a Student Tutor in the course Programming Language for four consecutive semesters.</p>
+                  <p><i className="fa-solid fa-angles-right"></i>Served as a Student Tutor in the course "Programming Language" for four consecutive semesters.</p>
                   <p><i className="fa-solid fa-angles-right"></i>Provided essential support to faculty during lab sessions by offering guidance and assistance to students.</p>
                   <p><i className="fa-solid fa-angles-right"></i>Mentored numerous students in their course-related studies, offering consultations and problem-solving sessions.</p>
                 </div>
@@ -75,7 +84,7 @@ function Resume() {
               <div className="experience-item">
                 <div className="icon-bullet"><i className="fas fa-laptop-code"></i></div>
                 <div>
-                  <h7>Co-Founder<span className='place'>   @ GameQart</span></h7><br></br>
+                  <h7>Co-Founder <a href='https://www.facebook.com/GameQart/' target="_blank"><span className='place'>   @ GameQart</span></a></h7><br></br>
                   <p className='timeline'>2019 - 2022</p>
                   <p><i className="fa-solid fa-angles-right"></i>Initiated and propelled the startup alongside a team of three friends, leveraging our collective skills.</p>
                   <p><i className="fa-solid fa-angles-right"></i>Spearheaded technical operations and oversaw product management, website maintenance, and page upkeep.</p>

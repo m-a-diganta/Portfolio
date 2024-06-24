@@ -102,9 +102,9 @@
   }
   
   .skill-card .name {
-    color: #0c5f3e;
+    color: #019e62;
     font-size: 1.1rem;
-    font-weight: 800;
+    font-weight: 600;
   }
   
   .skill-card .icon {
@@ -240,6 +240,7 @@
     .skill-category {
       width: 7.5rem;
       height: 3.5rem;
+      font-size: 10px;
     }
   
     .skills-info {
@@ -253,7 +254,7 @@
     }
   
     .skill-card .name {
-      font-size: 0.8rem;
+      font-size: 0.7rem;
     }
   
     .skill-card .icon {

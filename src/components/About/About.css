@@ -91,9 +91,9 @@
   }
   
   .title-tag {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     color: #caf0f8;
-    font-weight: 400;
+    font-weight: 200;
     text-align: left;
     font-style: italic;
     letter-spacing: 0.1em;
@@ -101,9 +101,9 @@
     align-self: flex-start;
   }
   .story{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     color: #caf0f8;
-    font-weight: 400;
+    font-weight: 200;
     text-align: left;
     letter-spacing: 0.1em;
     align-self: flex-start;

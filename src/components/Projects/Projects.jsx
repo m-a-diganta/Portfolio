@@ -57,7 +57,7 @@ const projects = [
     // live: "https://example.com/live",
     // video: "https://example.com/video",
     techs: ["Django", "Bootstrap", "HTML", "CSS"],
-    description: "The project has been initiated based on the concept of building an online Pharmacy within an area along with an inventory checker. It allows the patients or customers to easily find the nearby pharmacies their desired products are available in. So, they don't need to rush from one pharmacy to another in case of an emergency. The Customers have the opportunity to order the medicines online as well. ",
+    description: "This project aims to create an online pharmacy platform designed to assist individuals in locating crucial medicines during emergencies swiftly. Users can easily search for specific medications and instantly locate nearby pharmacies where these medicines are available. This eliminates the need for frantic searches across multiple pharmacies during critical times. Patients can conveniently search, find, and order medicines online, ensuring they receive timely and essential healthcare support. ",
     images: [p1_1, p1_2, p1_3]
   },
   {
@@ -84,7 +84,7 @@ const projects = [
     tag: "/ An E-commerce Platform for Artisans and Carft Enthusiasts",
     github: "https://github.com/m-a-diganta/Crafters-Corner-MERN",
     techs: ["React", "NodeJs", "Express", "MongoDB"],
-    description: "Crafters Corner: Where artisans, creators, & craft enthusiasts explore, buy, & sell handmade/machine-made products & courses. Fostering a vibrant community for sharing knowledge & connecting. Your ultimate destination for all things craft-related.",
+    description: "This project is an ecommerce platform where artisans and crafters can sell their handmade products directly to customers. Customers can browse a diverse selection of artisanal goods and purchase them from individual creators. Additionally, professional artisans can offer courses on various crafting techniques and related topics. Users can purchase these courses to learn from experts and expand their crafting skills, fostering a community of creativity and skill-sharing.",
     images: [p3_1, p3_2, p3_3]
   },
   {

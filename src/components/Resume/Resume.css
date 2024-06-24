@@ -1,5 +1,5 @@
 .resume-container {
-  height: 100vh;
+  height: 110vh;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -146,8 +146,13 @@ h7 {
 
 p {
   font-size: 0.8rem;
+  font-weight: 100;
   margin: 0.5rem 0;
   color: #b9e5ee;
+}
+
+a{
+  text-decoration: none;
 }
 
 .place {
