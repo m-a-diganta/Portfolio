@@ -53,7 +53,7 @@ const projects = [
     title: "Medix-Connect",
     category: "Full-stack Web Development Project",
     tag: "/ A Search‑enabled E‑commerce Website Model for Pharmaceuticals",
-    github: "https://github.com/example/ecommerce-platform",
+    github: "https://github.com/m-a-diganta/Online-Pharmacy",
     // live: "https://example.com/live",
     // video: "https://example.com/video",
     techs: ["Django", "Bootstrap", "HTML", "CSS"],
