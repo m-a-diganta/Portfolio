@@ -14,7 +14,7 @@ function Resume() {
     <section id="resume" className='resume-container'>
       <h5>Resume</h5>
       <div className="resume-contents">
-        <div className="button-container">
+        <div className="button-container ">
           <button
             className={showExperience ? 'active' : ''}
             onClick={() => { setShowEducation(false); setShowExperience(true); }}
