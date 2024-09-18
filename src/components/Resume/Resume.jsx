@@ -37,7 +37,7 @@ function Resume() {
                 <div className="icon-bullet"><i className="fas fa-graduation-cap"></i></div>
                 <div>
                   <h7>BSc in Computer Science & Engineering <br></br><span className='place'>@ BRAC University</span></h7><br></br>
-                  <p className='timeline'>2020 - 2023</p>
+                  <p className='timeline'>Jan 2020 - Dec 2023</p>
                   <p><i className="fa-solid fa-angles-right"></i>Cum. GPA 3.83</p>
                   <p><i className="fa-solid fa-angles-right"></i>Relevant Coursework: Data Structures, Algorithms, Software Engineering, Artificial Intelligence, Data Science.</p>
                 </div>
@@ -62,6 +62,15 @@ function Resume() {
           )}
           {showExperience && (
             <div className="experience animated-section slide-in">
+              <div className="experience-item">
+                <div className="icon-bullet"><i className="fas fa-laptop-code"></i></div>
+                <div>
+                <h7>Software Engineer (Intern)<a href='https://dream71.com/' target="_blank"><span className='place'> @ Dream71 Bangladesh Ltd </span></a></h7><br></br>
+                  <p className='timeline'>July 2024 - Present</p>
+                  <p><i className="fa-solid fa-angles-right"></i>Collaborated on agovernment‑level project for Department of Livestock Services (DLS) maintaining performance standards.</p>
+                  <p><i className="fa-solid fa-angles-right"></i>Contributed in developing the License and NOC ManagementSystemusingVue.jsandNuxt.js. library for frontend.</p>
+                </div>
+              </div>
               <div className="experience-item">
                 <div className="icon-bullet"><i className="fas fa-laptop-code"></i></div>
                 <div>

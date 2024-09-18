@@ -1,11 +1,10 @@
 .contact-container {
-    height: auto;
     padding: 4rem 1rem;
     display: flex;
     align-items: center;
     flex-direction: column;
     background-color: #06162c;
-    height: 85vh;
+    min-height: 85vh;
   }
   
   .contact-container h5 {

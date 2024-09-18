@@ -1,9 +1,10 @@
 .skills-container {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     flex-direction: column;
     box-shadow: 0 4px 2px #041122;
+    padding-bottom: 5vh;
   }
   
   .skills-container h5 {
