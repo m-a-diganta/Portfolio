@@ -1,15 +1,14 @@
-import React from 'react';
 import profile from '../../assets/new.svg'; 
 import cv from '../../assets/cv.pdf'; 
 import './Hero2.css';
-import { FaFacebook, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Hero = () => {
   return (
     <section id="hero" className='hero-container'>
       <div className='hero-content'>
         <img src={profile} alt="Profile Image"/>
-        <p><span className='nameSpan'>hello, Diganta here!</span> I'm all about diving into innovative projects and soaking up new skills. Count me in for some collaborative action. Let's team up and rock the tech scene together.</p>
+        <p><span className='nameSpan'>hello, Diganta here!</span> I&apos;m all about diving into innovative projects and soaking up new skills. Count me in for some collaborative action. Let&apos;s team up and rock the tech scene together.</p>
         <div className="social-links-container">
           <div className="social-links">
             <a href="https://www.facebook.com/alfessanidiganta" target="_blank" rel="noopener noreferrer">
